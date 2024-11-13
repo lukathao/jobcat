@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Luka-Thao-s-workspace-j66af7.us-east-1.xata.sh/db/jobcat",
+  "codegen": {
+    "output": "src/db/xata.ts"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mig_cspagdaa62oes0jmcomg",
+  "parentID": "mig_cspafvob12tq4cm043bg",
+  "checksum": "1:b6105b9124ce598a4320a1375d6c5473e1524cc45eb1536e859ca3efa8cc14b6",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "jobs-entry",
+        "oldName": "jobs"
+      }
+    }
+  ]
+}

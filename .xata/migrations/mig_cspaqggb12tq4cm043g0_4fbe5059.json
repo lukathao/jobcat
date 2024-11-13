@@ -1,0 +1,48 @@
+{
+  "id": "mig_cspaqggb12tq4cm043g0",
+  "parentID": "mig_cspahdia62oes0jmcop0",
+  "checksum": "1:4fbe5059ebbd1c2d1811036281962cd86259b73340c0e5143ff3edb35b80c2ed",
+  "operations": [
+    {
+      "addTable": {
+        "table": "jobs-remote"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Role",
+          "type": "string"
+        },
+        "table": "jobs-remote"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Link",
+          "type": "string"
+        },
+        "table": "jobs-remote"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Salary",
+          "type": "string"
+        },
+        "table": "jobs-remote"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Summary",
+          "type": "text"
+        },
+        "table": "jobs-remote"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "mig_cspafvob12tq4cm043bg",
+  "checksum": "1:4cf130f10ed86cdc01687c79649ca7886ea9544262c9568a6f457c91bf05a1f6",
+  "operations": [
+    {
+      "addTable": {
+        "table": "jobs"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Role",
+          "type": "string"
+        },
+        "table": "jobs"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Link",
+          "type": "string"
+        },
+        "table": "jobs"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Location",
+          "type": "string"
+        },
+        "table": "jobs"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Salary",
+          "type": "string"
+        },
+        "table": "jobs"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Summary",
+          "type": "text"
+        },
+        "table": "jobs"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "H1B",
+          "type": "bool"
+        },
+        "table": "jobs"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Company",
+          "type": "string"
+        },
+        "table": "jobs"
+      }
+    }
+  ]
+}

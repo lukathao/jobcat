@@ -1,0 +1,75 @@
+{
+  "id": "mig_cspahdia62oes0jmcop0",
+  "parentID": "mig_cspaglv9fpeavr522mc0",
+  "checksum": "1:0d50ea1a790d82b994c86ee2b95614bb025d15428fe2ccdace7ff1093d3cc189",
+  "operations": [
+    {
+      "addTable": {
+        "table": "jobs-senior"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Role",
+          "type": "string"
+        },
+        "table": "jobs-senior"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Link",
+          "type": "string"
+        },
+        "table": "jobs-senior"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Location",
+          "type": "text"
+        },
+        "table": "jobs-senior"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Salary",
+          "type": "string"
+        },
+        "table": "jobs-senior"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Summary",
+          "type": "text"
+        },
+        "table": "jobs-senior"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "H1B",
+          "type": "bool"
+        },
+        "table": "jobs-senior"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "Company",
+          "type": "string"
+        },
+        "table": "jobs-senior"
+      }
+    }
+  ]
+}
